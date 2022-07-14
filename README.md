@@ -1,6 +1,6 @@
 ## Description
 
-Learning [Nest](https://github.com/nestjs/nest) framework and [GraphQl](https://graphql.org/).
+Learning [Nest](https://github.com/nestjs/nest) framework and [GraphQL](https://graphql.org/).
 
 ## Installation
 
